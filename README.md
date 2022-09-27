@@ -1,2 +1,2 @@
-# mecc_cv
+# M.E.C.C.
 Virtual CV
